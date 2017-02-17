@@ -1,3 +1,3 @@
 # LatencyTest
 
-Python code to find network latency and then sort regions based on increasing average latency.
+Code to get network latency and then sort regions based on increasing average latency in Python.
